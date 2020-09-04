@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Dijsktra.cpp
+  Graph.cpp
+c:\users\lukas\documents\visual studio 2017\projects\dijsktra\dijsktra\graph.cpp(68): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Knoten.cpp
+  Code wird generiert...
+  Dijsktra.vcxproj -> C:\Users\Lukas\Documents\Visual Studio 2017\Projects\Dijsktra\Debug\Dijsktra.exe
